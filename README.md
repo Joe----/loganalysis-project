@@ -5,8 +5,8 @@ three questions about web activity on a news website.
 
 ## Software Prerequisites
 
-Python 2.7.9
-PostgreSQL 9.5.7
+* Python 2.7.9
+* PostgreSQL 9.5.7
 
 ## Installation
 
